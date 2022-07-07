@@ -1,2 +1,2 @@
-# Etch-a-Sketch
-A browser version of something between a sketchpad and an Etch-A-Sketch inspired by The Odin Project 2022.
+# Landing-Page
+For this project i’ll be creating an entire web page from a design the odin project provides for me.
